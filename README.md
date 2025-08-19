@@ -1,4 +1,4 @@
-## Installing and Setting Up Java 🚀.
+## Installing and Setting Up Java 🚀. 
 
 
 ### Windows 🪟
