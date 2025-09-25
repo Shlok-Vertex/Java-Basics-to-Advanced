@@ -1,5 +1,6 @@
 ## Installing and Setting Up Java 🚀.
 
+
 ### Windows 🪟
 
 1. Download the Java JDK from the [Oracle website](https://www.oracle.com/java/technologies/downloads/). 🌐
